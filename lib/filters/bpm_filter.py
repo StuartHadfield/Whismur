@@ -3,6 +3,6 @@
 
 
 class BpmFilter(object):
-  def __init__(self):
-    self.bpm = None
-    print "does nothing"
+    def __init__(self):
+        self.bpm = None
+        print "does nothing"

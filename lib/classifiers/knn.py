@@ -2,8 +2,8 @@
 
 
 class knn():
-  def foo():
-    print "kNN foo"
+    def foo():
+        print "kNN foo"
 
-  def classify(sound_wave):
-    print "here's your classification"
+    def classify(sound_wave):
+        print "here's your classification"
