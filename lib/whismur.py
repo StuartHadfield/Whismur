@@ -1,4 +1,6 @@
 # Imports
+from utils import audio_reader as ar
+from utils import wave_features as wf
 
 # from classifiers import knn
 
@@ -9,11 +11,12 @@ class Whismur(object):
         self.classifier = classifier
         self.trim = trim_silence
         self.bpm = bpm
-        print "done setting shit"
         self.evaluate()
 
     def evaluate(self):
-        print "evaluating!"
+        [sample_rate, data_size] = ar.read_audio_file(self.sound_wave)
+        new_features = wf.WaveFeatures(sample_rate, data_size)
+        new_features.calc_features()
 
     def classify(sound_wave):
         # knn.classify(sound_wave)

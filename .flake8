@@ -8,4 +8,6 @@ exclude =
     tests/.cache,
     tests/__pycache__,
     lib/__init__.py
+ignore =
+    E402
 max-complexity = 10
