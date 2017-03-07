@@ -1,18 +1,4 @@
-.. image:: https://badge.fury.io/py/Whismur.svg
-   :target: http://badge.fury.io/py/Whismur
-   :alt: PyPI package
-
-.. image:: https://travis-ci.org/StuartHadfield/Whismur.svg?branch=master
-   :target: https://travis-ci.org/StuartHadfield/Whismur
-   :alt: Travis CI build status (Linux)
-
-.. image:: https://codecov.io/github/StuartHadfield/Whismur/coverage.svg?branch=master
-   :target: https://codecov.io/github/StuartHadfield/Whismur?branch=master
-   :alt: Code Coverage
-
-.. image:: https://readthedocs.org/projects/Whismur/badge/?version=latest
-   :target: https://readthedocs.org/projects/Whismur/?badge=latest
-   :alt: Documentation Status
+[![Version](https://img.shields.io/pypi/StuartHadfield/Whismur.svg)](https://badge.fury.io/py/StuartHadfield/Whismur)  [![Build](https://img.shields.io/travis/StuartHadfield/Whismur.svg)](https://travis-ci.org/StuartHadfield/Whismur)  [![Coverage](https://img.shields.io/codecov/c/github/StuartHadfield/Whismur.svg)](https://codecov.io/github/StuartHadfield/Whismur)
 
 # Readme
 
