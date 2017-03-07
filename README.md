@@ -1,17 +1,17 @@
-.. image:: https://badge.fury.io/py/tinyfasta.svg
-   :target: http://badge.fury.io/py/tinyfasta
+.. image:: https://badge.fury.io/py/Whismur.svg
+   :target: http://badge.fury.io/py/Whismur
    :alt: PyPI package
 
-.. image:: https://travis-ci.org/tjelvar-olsson/tinyfasta.svg?branch=master
-   :target: https://travis-ci.org/tjelvar-olsson/tinyfasta
+.. image:: https://travis-ci.org/StuartHadfield/Whismur.svg?branch=master
+   :target: https://travis-ci.org/StuartHadfield/Whismur
    :alt: Travis CI build status (Linux)
 
-.. image:: https://codecov.io/github/tjelvar-olsson/tinyfasta/coverage.svg?branch=master
-   :target: https://codecov.io/github/tjelvar-olsson/tinyfasta?branch=master
+.. image:: https://codecov.io/github/StuartHadfield/Whismur/coverage.svg?branch=master
+   :target: https://codecov.io/github/StuartHadfield/Whismur?branch=master
    :alt: Code Coverage
 
-.. image:: https://readthedocs.org/projects/tinyfasta/badge/?version=latest
-   :target: https://readthedocs.org/projects/tinyfasta/?badge=latest
+.. image:: https://readthedocs.org/projects/Whismur/badge/?version=latest
+   :target: https://readthedocs.org/projects/Whismur/?badge=latest
    :alt: Documentation Status
 
 # Readme
