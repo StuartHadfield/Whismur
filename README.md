@@ -1,4 +1,4 @@
-[![Version](https://img.shields.io/pypi/StuartHadfield/Whismur.svg)](https://badge.fury.io/py/StuartHadfield/Whismur)  [![Build](https://img.shields.io/travis/StuartHadfield/Whismur.svg)](https://travis-ci.org/StuartHadfield/Whismur)  [![Coverage](https://img.shields.io/codecov/c/github/StuartHadfield/Whismur.svg)](https://codecov.io/github/StuartHadfield/Whismur)
+[![Version](https://img.shields.io/pypi/StuartHadfield/Whismur.svg)](https://badge.fury.io/py/StuartHadfield/Whismur)  [![Build](https://img.shields.io/travis/StuartHadfield/Whismur.svg)](https://travis-ci.org/StuartHadfield/Whismur)  [![Coverage](https://img.shields.io/codecov/c/github/StuartHadfield/Whismur.svg)](https://codecov.io/github/StuartHadfield/Whismur)  [![Documentation Status](https://readthedocs.org/projects/whismur/badge/?version=latest)](http://whismur.readthedocs.io/en/latest/?badge=latest)
 
 # Readme
 
